@@ -1,0 +1,6 @@
+{
+    "port": 5000
+    ,"mongoUri":"mongodb+srv://lyakin:Welc0me777@cluster0-ozcso.azure.mongodb.net/app?retryWrites=true&w=majority"
+    ,"jwtSecret": "ajdhfahdjHJHFDjksNSAJDFTYS&D6y798yh23g^TSGDg"
+    ,"baseUrl":"http://localhost:5000"
+}
